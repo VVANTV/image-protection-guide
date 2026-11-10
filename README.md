@@ -4,7 +4,7 @@
 
 Первая часть: [Защита авторских прав на текст](https://github.com/VVANTV/-text-protection-guide)
 
-Скачать: [Kak-zashitit-svoj-izobrazheniya-ot-kopirovaniya.pdf](Kak-zashitit-svoj-izobrazheniya-ot-kopirovaniya.pdf)
+Скачать: [Скачать: [PDF, версия 1.0](https://github.com/VVANTV/image-protection-guide/releases/latest))
 
 ## Файлы
 
